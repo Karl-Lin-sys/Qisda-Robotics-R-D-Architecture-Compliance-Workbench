@@ -1,0 +1,6 @@
+{
+  "name": "Qisda Robotics R&D Architecture & Compliance Workbench",
+  "description": "Peer-reviewed robotics perception, whole-body control, Big-O complexity analyzer, NIST CSF 2.0 governance, and Taiwan legal compliance workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
